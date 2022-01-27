@@ -13,15 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Andrea Scorsoglio
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This website describes my work as a researcher at Space Systems Engineering Laboratory
+  at University of Arizona. You will find research about application of Reinforcement Learning
+  and machine learning in general to spacecraft guidance navigation and control as well as 
+  computer vision.
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: andreascorsoglio
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
