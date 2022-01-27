@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Andrea Scorsoglio"
+  avatar : "/assets/images/AndreaScorsoglio_small.jpg"
+  bio    : "I'm a PhD student at University of Arizona. My passion is reinforcement learning applied to spacecraft guidance and computer vision"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,7 +70,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/andreascorsoglio"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -82,7 +82,7 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/andreascorsoglio"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
