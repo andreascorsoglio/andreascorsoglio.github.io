@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Andrea Scorsoglio"
-  avatar : "/assets/images/AndreaScorsoglio_small.jpg"
+  avatar : "/assets/images/AndreaScorsoglio_squared.jpg"
   bio    : "I'm a PhD student at University of Arizona. My passion is reinforcement learning applied to spacecraft guidance and computer vision"
   links:
     - label: "Website"
