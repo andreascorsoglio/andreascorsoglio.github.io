@@ -6,6 +6,6 @@ categories:
 tags:
   - PINN
 header:
-  teaser: /assets/images/RMSE.png
+  teaser: /assets/images/PIOD_nonKep.png
 published: true
 ---
