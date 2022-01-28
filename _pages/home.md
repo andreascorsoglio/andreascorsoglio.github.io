@@ -7,23 +7,21 @@ header:
     overlay_filter: "0.5"
     overlay_image: /assets/images/sda_crop.jpg
 feature_row:
-  - image_path: /assets/images/RMSE.png
+  - image_path: /assets/images/los_alamos_video.gif
     alt: "Research"
     title: "Research"
     url: "/research/"
-    excerpt: "Explore my research" 
-    btn_label: "Read More"
-  - image_path: /assets/images/RMSE.png
+    btn_label: "Explore"
+  - image_path: /assets/images/neosurveyor.jpg
     alt: "Missions and Projects"
     title: "Missions and Projects"
     url: "/missions/"
-    excerpt: "Explore my research" 
-    btn_label: "Read More"
-  - image_path: /assets/images/RMSE.png
+    btn_label: "Explore"
+  - image_path: /assets/images/publications.png
     alt: "Publications"
     title: "Publications"
     url: "/publications/"
-    btn_label: "Read More"
+    btn_label: "Explore"
 ---
 
 
