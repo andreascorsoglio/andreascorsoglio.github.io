@@ -13,6 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+
 title: Andrea Scorsoglio
 email: andreascorsoglio@email.arizona.edu
 description: "Amazing"
@@ -20,6 +22,8 @@ twitter_username: username
 github_username: andreascorsoglio
 minimal_mistakes_skin: dark
 search: true
+
+# logo: "/assets/images/AndreaScorsoglio_squared.jpg"
 
 # Build settings
 markdown: kramdown
@@ -59,27 +63,36 @@ author:
   avatar : "/assets/images/AndreaScorsoglio_squared.jpg"
   bio    : "I'm a PhD student at University of Arizona. My passion is reinforcement learning applied to spacecraft guidance and computer vision"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/andreascorsoglio"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andreascorsoglio"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Andrea-Scorsoglio"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/andrea-scorsoglio-409a72140/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andreascorsoglio"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Andrea-Scorsoglio"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/andrea-scorsoglio-409a72140/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
