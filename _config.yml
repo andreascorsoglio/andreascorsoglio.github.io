@@ -24,7 +24,7 @@ github_username: andreascorsoglio
 minimal_mistakes_skin: dark
 search: true
 
-# logo: "/assets/images/AndreaScorsoglio_squared.jpg"
+# logo: "fas fa-space-shuttle"
 
 # Build settings
 markdown: kramdown

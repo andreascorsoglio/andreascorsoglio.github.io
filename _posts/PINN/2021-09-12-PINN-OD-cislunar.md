@@ -5,5 +5,7 @@ categories:
   - Physics Informed Neural Networks
 tags:
   - PINN
+header:
+  teaser: /assets/images/RMSE.png
 published: true
 ---
