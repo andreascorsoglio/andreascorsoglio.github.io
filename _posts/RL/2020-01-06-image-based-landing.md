@@ -7,5 +7,7 @@ tags:
   - RL
   - Relative Motion
   - Lyapunov Vector Fields
+header:
+  teaser: /assets/images/los_alamos_video.gif
 published: true
 ---
