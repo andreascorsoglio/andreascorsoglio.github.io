@@ -17,7 +17,8 @@
 
 title: Andrea Scorsoglio
 email: andreascorsoglio@email.arizona.edu
-description: "Amazing"
+description: "On this website I present myself and my research at the Space Systems Engineering Laboratory
+(University of Arizona). You will find space applications of reinforcement learning and computer vision."
 twitter_username: username
 github_username: andreascorsoglio
 minimal_mistakes_skin: dark
@@ -30,7 +31,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 3 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -61,7 +62,8 @@ plugins:
 author:
   name   : "Andrea Scorsoglio"
   avatar : "/assets/images/AndreaScorsoglio_squared.jpg"
-  bio    : "I'm a PhD student at University of Arizona. My passion is reinforcement learning applied to spacecraft guidance and computer vision"
+  bio    : "I'm a PhD student at University of Arizona. I study space applications of
+  reinforcement learning and computer vision"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -72,12 +74,16 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/andrea-scorsoglio-409a72140/"
+    - label: "SSEL"
+      icon: "fab fa-fw fa-link"
+      url: "https://www.ssel.arizona.edu/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    
 
 footer:
   links:
