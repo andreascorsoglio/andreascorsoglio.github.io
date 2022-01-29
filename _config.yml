@@ -123,6 +123,12 @@ defaults:
       layout: single
       author_profile: true
 
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-5QFWEP1JZ4"
+    anonymize_ip: false # default
+
 category_archive:
   type: liquid
   path: /categories/
