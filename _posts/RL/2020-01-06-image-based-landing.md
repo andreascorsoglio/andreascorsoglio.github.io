@@ -8,6 +8,6 @@ tags:
   - Relative Motion
   - Lyapunov Vector Fields
 header:
-  teaser: /assets/images/image_based_conference.gif
+  teaser: /assets/images/Conf/Orlando/image_based_conference.gif
 published: true
 ---

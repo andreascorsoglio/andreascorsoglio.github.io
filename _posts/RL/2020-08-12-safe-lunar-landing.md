@@ -7,5 +7,7 @@ tags:
   - RL
   - Landing
   - Computer Vision
+header:
+  teaser: /assets/images/Conf/LakeTahoe/a.gif
 published: true
 ---

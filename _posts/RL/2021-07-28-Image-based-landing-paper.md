@@ -8,7 +8,7 @@ tags:
   - Landing
   - Computer Vision
 header:
-  teaser: /assets/images/los_alamos_video.gif
+  teaser: /assets/images/Journal/ImageBased/los_alamos_video.gif
 published: true
 ---
 

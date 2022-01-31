@@ -6,6 +6,6 @@ categories:
 tags:
   - PINN
 header:
-  teaser: /assets/images/PIOD_nonKep.png
+  teaser: /assets/images/Conf/BigSky/PIOD_nonKep.png
 published: true
 ---

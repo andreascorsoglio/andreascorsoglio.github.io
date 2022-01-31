@@ -6,5 +6,7 @@ categories:
 tags:
   - RL
   - Low-thrust
+header:
+  teaser: /assets/images/Conf/LakeTahoe/a.gif
 published: true
 ---
