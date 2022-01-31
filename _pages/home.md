@@ -7,12 +7,12 @@ header:
     overlay_filter: "0.5"
     overlay_image: /assets/images/sda_crop.jpg
 feature_row:
-  - image_path: /assets/images/los_alamos_video.gif
+  - image_path: /assets/images/Journal/ImageBased/los_alamos_video.gif
     alt: "Research"
     title: "Research"
     url: "/research/"
     btn_label: "Explore"
-  - image_path: /assets/images/neosurveyor.jpg
+  - image_path: /assets/images/NEOSM/neosurveyor.jpg
     alt: "Missions and Projects"
     title: "Missions and Projects"
     url: "/missions/"
