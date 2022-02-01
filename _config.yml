@@ -78,12 +78,16 @@ author:
     - label: "SSEL"
       icon: "fab fa-fw fa-link"
       url: "https://www.ssel.arizona.edu/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Resume/CV"
+      icon: "fab fa-fw fa-download"
+      url: "https://andreascorsoglio.github.io/about/"
+
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
     
 
 footer:
