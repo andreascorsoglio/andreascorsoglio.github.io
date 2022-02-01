@@ -79,7 +79,7 @@ author:
       icon: "fab fa-fw fa-link"
       url: "https://www.ssel.arizona.edu/"
     - label: "Resume/CV"
-      icon: "fab fa-fw fa-download"
+      icon: "fas fa-fw fa-download"
       url: "https://andreascorsoglio.github.io/about/"
 
     # - label: "Twitter"
