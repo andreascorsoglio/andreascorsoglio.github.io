@@ -31,3 +31,5 @@ In this paper, we propose a new approach based on deep learning that integrates 
 {% include figure image_path="/assets/images/Conf/LakeTahoe/lake_tahoe_mask.gif" caption="Ground Mask" %}
 
 {% include figure image_path="/assets/images/Conf/LakeTahoe/lake_tahoe_hazard.gif" caption="Ground Hazard map" %} -->
+
+Scorsoglio, A., D’Ambrosio, A., Ghilardi, L., Furfaro, R., Gaudet, B., Linares, R., & Curti, F. (2020, August). Safe Lunar landing via images: A Reinforcement Meta-Learning application to autonomous hazard avoidance and landing. In Proceedings of the 2020 AAS/AIAA Astrodynamics Specialist Conference, Virtual (pp. 9-12). [DOI](https://www.researchgate.net/profile/Andrea-Scorsoglio/publication/343650361_Safe_lunar_landing_via_images_a_reinforcement_meta-learning_application_to_autonomous_hazard_avoidance_and_landing/links/60b94f15a6fdcc22ead3c19b/Safe-lunar-landing-via-images-a-reinforcement-meta-learning-application-to-autonomous-hazard-avoidance-and-landing.pdf)

@@ -27,3 +27,5 @@ This paper aims a developing a new feedback guidance algorithm for docking maneu
 
 {% include figure image_path="/assets/images/Conf/Hawaii/trajectoryLVLH_2.png" %} -->
 
+Scorsoglio, A., Furfaro, R., Linares, R., & Massari, M. (2019). Actor-critic reinforcement learning approach to relative motion guidance in near-rectilinear orbit. 29th AAS/AIAA Space Flight Mechanics Meeting, 2019, Ka’anapali, Maui, HI, Advances in the Astronautical Sciences, 168, 1737-1756. [PDF](https://www.researchgate.net/profile/Richard-Linares/publication/331147324_Actor-Critic_Reinforcement_Learning_Approach_to_Relative_Motion_Guidance_in_Near-Rectilinear_Orbit/links/5c67667ba6fdcc404eb453bd/Actor-Critic-Reinforcement-Learning-Approach-to-Relative-Motion-Guidance-in-Near-Rectilinear-Orbit.pdf)
+

@@ -28,3 +28,5 @@ We propose a new approach based on meta reinforcement learning (meta-RL) that in
 <!-- {% include figure image_path="/assets/images/Conf/Orlando/Apollo16_lowCont.png" caption="DTM" %}
 
 {% include figure image_path="/assets/images/Conf/Orlando/Apollo16_reduced.png" caption="Render" %} -->
+
+Scorsoglio, A., Furfaro, R., Linares, R., & Gaudet, B. (2020). Image-based deep reinforcement learning for autonomous lunar landing. In AIAA Scitech 2020 Forum (p. 1910). [DOI](http://dx.doi.org/10.2514/6.2020-1910)
