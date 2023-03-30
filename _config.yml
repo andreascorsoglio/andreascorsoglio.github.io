@@ -1,22 +1,42 @@
 remote_theme              : mmistakes/minimal-mistakes
-
 minimal_mistakes_skin     : dark
 
 
-title: Andrea Scorsoglio
-email: andreascorsoglio@email.arizona.edu
-description: "On this website I present myself and my research at the Space Systems Engineering Laboratory
+title                     : Andrea Scorsoglio
+email                     : andreascorsoglio@email.arizona.edu
+description               : "On this website I present myself and my research at the Space Systems Engineering Laboratory
 (University of Arizona). You will find space applications of reinforcement learning and computer vision."
 
-twitter_username: username
 github_username: andreascorsoglio
 
-search: true
+locale                    : "en-US"
+
+subtitle                  : "Aerospace Systems Engineer" # site tagline that appears below site title in masthead
+
+name                      : "Andrea Scorsoglio"
+
+search                    : true
+search_full_content       : true # true, false (default)
 
 # logo: "fas fa-space-shuttle"
 
 # Build settings
-markdown: kramdown
+markdown                  : kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
 # Outputting
 permalink: /:categories/:title/
@@ -40,8 +60,8 @@ plugins:
 author:
   name   : "Andrea Scorsoglio"
   avatar : "/assets/images/AndreaScorsoglio_squared.jpg"
-  bio    : "I'm a PhD student at University of Arizona. I study space applications of
-  reinforcement learning and computer vision"
+  bio    : "PhD student at University of Arizona. I focus on space applications of
+  reinforcement learning, simulation and computer vision"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -53,7 +73,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/andrea-scorsoglio-409a72140/"
     - label: "SSEL"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://www.ssel.arizona.edu/"
     - label: "Resume/CV"
       icon: "fas fa-fw fa-download"
