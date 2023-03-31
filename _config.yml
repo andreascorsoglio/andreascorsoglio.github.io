@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Andrea Scorsoglio"
   avatar : "/assets/images/AndreaScorsoglio_squared.jpg"
-  bio    : "PhD student at University of Arizona. I focus on space applications of
+  bio    : "PhD candidate at University of Arizona. I focus on space applications of
   reinforcement learning, simulation and computer vision"
   links:
     - label: "GitHub"

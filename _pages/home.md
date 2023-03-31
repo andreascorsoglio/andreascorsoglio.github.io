@@ -13,21 +13,22 @@ feature_row1:
     alt: "Research"
     title: "Research"
     url: "/research/"
-    btn_label: "Explore"
-    excerpt: 'Research projects.'
+    btn_label: "More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/NEOSM/neosurveyor.jpg
     alt: "Missions and Projects"
     title: "Missions and Projects"
     url: "/missions/"
-    btn_label: "Explore"
-    excerpt: 'Missions.'
+    btn_label: "More"
+    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/publications.png
     alt: "Publications"
     title: "Publications"
     url: "/publications/"
-    btn_label: "Explore"
+    btn_label: "More"
+    btn_class: "btn--primary"
 ---
 
 <font size="3">
