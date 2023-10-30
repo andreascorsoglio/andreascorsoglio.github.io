@@ -8,8 +8,6 @@ header:
     overlay_image: /assets/images/sda_crop.jpg
 ---
 
-<font size="3">
-
 # Peer Reviewed Papers
 
 
@@ -37,5 +35,3 @@ header:
 * Federici, L., Scorsoglio, A., Zavoli, A., & Furfaro, R. (2021). Meta-Reinforcement Learning for Adaptive Spacecraft Guidance during Multi-Target Mission. In 72nd International Astronautical Congress (IAC) 2021.
 * Federici, L., Scorsoglio, A., Ghilardi, L., D'Ambrosio, A., Benedikter, B., & Furfaro, R. (2022). Image-Based Meta-Reinforcement Learning for Autonomous Terminal Guidance of an Impactor in a Binary Asteroid Systems. In AIAA SCITECH 2022 Forum (p. 2270). [DOI](https://doi.org/10.2514/6.2022-2270)
 * Furfaro, R., D'Ambrosio, A., Schiassi, E., & Scorsoglio, A. (2022). Physics-Informed Neural Networks for Closed-Loop Guidance and Control in Aerospace Systems. In AIAA SCITECH 2022 Forum (p. 0361).
-
-</font>

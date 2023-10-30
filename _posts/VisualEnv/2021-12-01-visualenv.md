@@ -7,7 +7,7 @@ tags:
   - Computer vision
 header:
   teaser: /assets/images/Journal/VisualEnv/Vcart_ext.jpg
-published: false
+published: true
 ---
 
 <font size="3">
@@ -31,3 +31,4 @@ published: false
 Reference:
 Scorsoglio, A., & Furfaro, R. (2021). VisualEnv: visual Gym environments with Blender. arXiv preprint arXiv:2111.08096. [PDF](https://arxiv.org/pdf/2111.08096.pdf) 
 
+</font>
