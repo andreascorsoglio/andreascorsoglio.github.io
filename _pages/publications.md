@@ -8,7 +8,10 @@ header:
     overlay_image: /assets/images/sda_crop.jpg
 ---
 
+<font size="3">
+
 # Peer Reviewed Papers
+
 
 * Scorsoglio, A., D’Ambrosio, A., Ghilardi, L., Gaudet, B., Curti, F., & Furfaro, R. (2021). Image-Based Deep Reinforcement Meta-Learning for Autonomous Lunar Landing. Journal of Spacecraft and Rockets, 1-13. [DOI](https://doi.org/10.2514/1.a35072)
 * Furfaro, R., Scorsoglio, A., Linares, R., & Massari, M. (2020). Adaptive generalized ZEM-ZEV feedback guidance for planetary landing via a deep reinforcement learning approach. Acta Astronautica, 171, 156-171. [DOI](http://dx.doi.org/10.1016/j.actaastro.2020.02.051)
@@ -35,3 +38,4 @@ header:
 * Federici, L., Scorsoglio, A., Ghilardi, L., D'Ambrosio, A., Benedikter, B., & Furfaro, R. (2022). Image-Based Meta-Reinforcement Learning for Autonomous Terminal Guidance of an Impactor in a Binary Asteroid Systems. In AIAA SCITECH 2022 Forum (p. 2270). [DOI](https://doi.org/10.2514/6.2022-2270)
 * Furfaro, R., D'Ambrosio, A., Schiassi, E., & Scorsoglio, A. (2022). Physics-Informed Neural Networks for Closed-Loop Guidance and Control in Aerospace Systems. In AIAA SCITECH 2022 Forum (p. 0361).
 
+</font>

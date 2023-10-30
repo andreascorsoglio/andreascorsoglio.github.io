@@ -33,7 +33,7 @@ feature_row3:
 
 <font size="3">
 
-<div style="text-align: justify;"> I'm a Ph.D. candidate in <a href="https://sie.engineering.arizona.edu/">Systems &amp; Industrial Engineering</a> at the <a href="https://www.arizona.edu/">University of Arizona</a>. I received my M.Sc. in <a href="https://www.polimi.it/en/international-prospective-students/laurea-magistrale-programmes-equivalent-to-master-of-science/programme-catalogue/space-engineering">Space Engineering</a> from <a href="https://www.polimi.it/en">Politecnico di Milano</a>. Throughout my studies I developed great interest in space systems engineering, space mission design and spacecraft guidance, navigation, and control. My research is currently mostly focused on reinforcement learning applications to spacecraft guidance navigation and control and vision-based simulation.</div>
+<div style="text-align: justify;"> I'm a Ph.D. candidate in <a href="https://sie.engineering.arizona.edu/">Systems &amp; Industrial Engineering</a> at the <a href="https://www.arizona.edu/">University of Arizona</a>. I received my M.Sc. in <a href="https://www.polimi.it/en/international-prospective-students/laurea-magistrale-programmes-equivalent-to-master-of-science/programme-catalogue/space-engineering">Space Engineering</a> from <a href="https://www.polimi.it/en">Politecnico di Milano</a>. My background is in space systems engineering, space mission design and spacecraft guidance, navigation, and control. Currently, my research is focused on reinforcement learning applications to spacecraft guidance navigation and control and vision-based simulation.</div>
 
 <p><br></p>
 
