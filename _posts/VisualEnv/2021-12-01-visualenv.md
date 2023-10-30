@@ -29,7 +29,7 @@ published: true
 <p><br></p>
 
 Reference:
-Scorsoglio, A., & Furfaro, R. (2021). VisualEnv: visual Gym environments with Blender. arXiv preprint arXiv:2111.08096. <a href="hhttps://arxiv.org/pdf/2111.08096.pdf">[[PDF]]</a>
+Scorsoglio, A., & Furfaro, R. (2021). VisualEnv: visual Gym environments with Blender. arXiv preprint arXiv:2111.08096. <a href="hhttps://arxiv.org/pdf/2111.08096.pdf">PDF</a>
 
 </font>
 
