@@ -21,6 +21,10 @@ Journal Papers
     <li>Gaudet, B., Furfaro, R., Linares, R., & Scorsoglio, A. (2021). Reinforcement Metalearning for Interception of Maneuvering Exoatmospheric Targets with Parasitic Attitude Loop. <em>Journal of Spacecraft and Rockets</em>, 58(2), 386-399. <a href="https://doi.org/10.2514/1.A34841">DOI</a></li> 
     <li>Scorsoglio, A., Ghilardi, L., & Furfaro, R. (2023). A Physic-Informed Neural Network Approach to Orbit Determination. <em>The Journal of the Astronautical Sciences</em>, 70(4), 1-30. <a href="https://doi.org/10.1007/s40295-023-00392-w">DOI</a> </li> 
     <li>Scorsoglio, A., Furfaro, R., Linares, R., & Massari, M. (2023). Relative motion guidance for near-rectilinear lunar orbits with path constraints via actor-critic reinforcement learning. Advances in Space Research, 71(1), 316-335. <a href="https://doi.org/10.1016/j.asr.2022.08.002">DOI</a> </li> 
+    <li>Federici, L., Scorsoglio, A., Zavoli, A., & Furfaro, R. (2023). Autonomous Guidance Between Quasiperiodic Orbits in Cislunar Space via Deep Reinforcement Learning. Journal of Spacecraft and Rockets, 1-12. <a href="https://doi.org/10.2514/1.A35747">DOI</a> </li> 
+    <li>Pugliatti, M., Scorsoglio, A., Furfaro, R., & Topputo, F. (2023). Onboard State Estimation Around Didymos with Recurrent Neural Networks and Segmentation Maps. IEEE Transactions on Aerospace and Electronic Systems. <a href="https://doi.org/10.1109/TAES.2023.3288506">DOI</a> </li> 
+    <li>Federici, L., Scorsoglio, A., Zavoli, A., & Furfaro, R. (2022). Meta-reinforcement learning for adaptive spacecraft guidance during finite-thrust rendezvous missions. Acta Astronautica, 201, 129-141. <a href="https://doi.org/10.1016/j.actaastro.2022.08.047">DOI</a> </li> 
+    <li>Federici, L., Scorsoglio, A., Ghilardi, L., D’Ambrosio, A., Benedikter, B., Zavoli, A., & Furfaro, R. (2022). Image-Based Meta-Reinforcement Learning for Autonomous Guidance of an Asteroid Impactor. Journal of Guidance, Control, and Dynamics, 45(11), 2013-2028.<a href="https://doi.org/10.2514/1.G006832">DOI</a> </li> 
 </ul>
 </font>
 

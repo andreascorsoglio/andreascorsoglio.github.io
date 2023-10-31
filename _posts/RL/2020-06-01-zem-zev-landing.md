@@ -22,9 +22,12 @@ gallery:
 
 <!-- {% include figure image_path="/assets/images/Journal/Adaptive/trajectory.png" caption="2D trajectory" %} -->
 
-<font size="3">
+
 
 <div style="text-align: justify;">
+
+<font size="3">
+
 Precision landing on large and small planetary bodies is a technology of utmost importance for future human and robotic exploration of the solar system. In this context, the Zero-Effort-Miss/Zero-Effort-Velocity (ZEM/ZEV) feedback guidance algorithm has been studied extensively and is still a field of active research. The algorithm, although powerful in terms of accuracy and ease of implementation, has some limitations. Therefore with this paper we present an adaptive guidance algorithm based on classical ZEM/ZEV in which machine learning is used to overcome its limitations and create a closed loop guidance algorithm that is sufficiently lightweight to be implemented on board spacecraft and flexible enough to be able to adapt to the given constraint scenario. The adopted methodology is an actor-critic reinforcement learning algorithm that learns the parameters of the above-mentioned guidance architecture according to the given problem constraints.
 
 We propose a ZEM/ZEV-based guidance algorithm for powered descent landing that can adaptively change both guidance gains and time-to-go to generate a class of closed-loop trajectories that 1) are quasi-optimal (w.r.t. the fuel-efficiency) and 2) satisfy flight constraints (e.g. thrust constraints, glide slope). The proposed algorithm exploit recent advancements in deep reinforcement learning (e.g. deterministic policy gradient), and machine learning (e.g. Extreme Learning Machines, ELM).  
@@ -35,4 +38,7 @@ The overall structure of the guidance algorithm is unchanged with respect to the
 <p><br></p>
 
 Reference:
-Furfaro, R., Scorsoglio, A., Linares, R., & Massari, M. (2020). Adaptive generalized ZEM-ZEV feedback guidance for planetary landing via a deep reinforcement learning approach. Acta Astronautica, 171, 156-171. [DOI](http://dx.doi.org/10.1016/j.actaastro.2020.02.051)
+Furfaro, R., Scorsoglio, A., Linares, R., & Massari, M. (2020). Adaptive generalized ZEM-ZEV feedback guidance for planetary landing via a deep reinforcement learning approach. Acta Astronautica, 171, 156-171. <a href="http://dx.doi.org/10.1016/j.actaastro.2020.02.051">DOI</a>
+
+</font>
+</div>

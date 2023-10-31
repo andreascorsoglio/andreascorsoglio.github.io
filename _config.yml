@@ -4,10 +4,10 @@ minimal_mistakes_skin     : dark
 
 title                     : Andrea Scorsoglio
 email                     : andreascorsoglio@email.arizona.edu
-description               : "On this website I present myself and my research at the Space Systems Engineering Laboratory
-(University of Arizona). You will find space applications of reinforcement learning and computer vision."
+description               : "Andrea Scorsoglio in a nutshell."
 
-github_username: andreascorsoglio
+github_username           : andreascorsoglio
+url                       : "https://andreascorsoglio.com"
 
 locale                    : "en-US"
 
@@ -60,9 +60,12 @@ plugins:
 author:
   name   : "Andrea Scorsoglio"
   avatar : "/assets/images/AndreaScorsoglio_squared.jpg"
-  bio    : "PhD candidate at University of Arizona. I focus on space applications of
+  bio    : "PhD candidate at The University of Arizona. I focus on space applications of
   reinforcement learning, simulation and computer vision"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:andrea.scorsoglio@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andreascorsoglio"
